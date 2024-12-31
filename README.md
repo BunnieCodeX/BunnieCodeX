@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BunnieCodeX
+- 👋 Hi, I’m Pawan Gupta
 - 👀 I’m interested in Python coding and intrested to build projects related to Futuristic Thoughts
 - 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on ......
